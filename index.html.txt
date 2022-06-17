@@ -2,7 +2,8 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Dominic Gee A1 IIT</title>
+<img src="Dom G profile pic.jpg"
+  <title> Dominic Gee A1 IIT</title>
   </head>
   <body>
 
